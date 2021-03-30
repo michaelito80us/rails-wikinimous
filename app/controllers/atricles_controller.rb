@@ -1,0 +1,4 @@
+class AtriclesController < ApplicationController
+ 
+
+end
